@@ -4,3 +4,22 @@
 # When we find something usefull put it in this file
 # In the end of the research we have to check the sources in the report
 #
+
+====== OT Project ======
+
+=== Useful links ===
+
+== Blackboard specific ==
+http://wiki.uva.nl/kb-oa/index.php/Categorie:Blackboard_9|Documentatie Blackboard Learn (UvA)
+http://wiki.uva.nl/kb-oa/index.php/Blackboard_wijzigt_ingeleverd_werk_van_studenten|Info over XSS-preventie van ingeleverd werk
+https://software-security.sans.org/resources/paper/reading-room/securing-blackboard-learn-linux|Securing Blackboard Learn on Linux
+http://link.springer.com/chapter/10.1007/978-3-642-41488-6_3|Prevent Session Hijacking by Binding the Session to the Cryptographic Network Credentials (shows how to hijack sessions and do XSS stuff)
+https://pms.cs.ru.nl/iris-diglib/src/getContent.php?id=2013-Eekelen-BlackBoardSecurityAssessment|Blackboard Security Assessment (Radboud Universiteit)
+
+== Web testing ==
+https://www.owasp.org/images/c/c3/Top10PrivacyRisks_IAPP_Summit_2015.pdf|OWasp Top 10 Privacy Risks
+https://ghostbin.com/paste/6kho7|How Hacking Team was hacked (probably off-topic)
+
+== Recommendations ==
+https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology|OWASP Risk Rating Methodology
+https://www.owasp.org/index.php/ZAPpingTheTop10
