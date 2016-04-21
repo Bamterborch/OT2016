@@ -1,0 +1,6 @@
+#
+# This document is intended to quick share links between us.
+# It can also be used to add references to the bibtech library.
+# When we find something usefull put it in this file
+# In the end of the research we have to check the sources in the report
+#
