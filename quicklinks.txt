@@ -31,6 +31,9 @@ https://en-us.help.blackboard.com/Learn/9.1_2014_04/Administrator/070_Server_Man
 How Blackboard deals with OWASP vulnerabilities:
 https://en-us.help.blackboard.com/Learn/9.1_2014_04/Administrator/070_Server_Management_and_Integrations/Security/040_Security_Assurance
 
+Blackboard secure configuration checklist:
+https://en-us.help.blackboard.com/Learn/9.1_2014_04/Administrator/070_Server_Management_and_Integrations/Security/Secure_Configuration_Checklist
+
 == Web testing ==
 OWASP Top 10 Privacy Risks
 https://www.owasp.org/images/c/c3/Top10PrivacyRisks_IAPP_Summit_2015.pdf
