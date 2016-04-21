@@ -10,16 +10,37 @@
 === Useful links ===
 
 == Blackboard specific ==
-http://wiki.uva.nl/kb-oa/index.php/Categorie:Blackboard_9|Documentatie Blackboard Learn (UvA)
-http://wiki.uva.nl/kb-oa/index.php/Blackboard_wijzigt_ingeleverd_werk_van_studenten|Info over XSS-preventie van ingeleverd werk
-https://software-security.sans.org/resources/paper/reading-room/securing-blackboard-learn-linux|Securing Blackboard Learn on Linux
-http://link.springer.com/chapter/10.1007/978-3-642-41488-6_3|Prevent Session Hijacking by Binding the Session to the Cryptographic Network Credentials (shows how to hijack sessions and do XSS stuff)
-https://pms.cs.ru.nl/iris-diglib/src/getContent.php?id=2013-Eekelen-BlackBoardSecurityAssessment|Blackboard Security Assessment (Radboud Universiteit)
+Documentation Blackboard Learn (UvA):
+http://wiki.uva.nl/kb-oa/index.php/Categorie:Blackboard_9
+
+Info about XSS-prevention in handed in assignments:
+http://wiki.uva.nl/kb-oa/index.php/Blackboard_wijzigt_ingeleverd_werk_van_studenten
+
+Securing Blackboard Learn on Linux:
+https://software-security.sans.org/resources/paper/reading-room/securing-blackboard-learn-linux
+
+Prevent Session Hijacking by Binding the Session to the Cryptographic Network Credentials (shows how to hijack sessions and do XSS stuff):
+http://link.springer.com/chapter/10.1007/978-3-642-41488-6_3
+
+Blackboard Security Assessment (Radboud Universiteit):
+https://pms.cs.ru.nl/iris-diglib/src/getContent.php?id=2013-Eekelen-BlackBoardSecurityAssessment
+
+Blackboard security details:
+https://en-us.help.blackboard.com/Learn/9.1_2014_04/Administrator/070_Server_Management_and_Integrations/Security
+
+How Blackboard deals with OWASP vulnerabilities:
+https://en-us.help.blackboard.com/Learn/9.1_2014_04/Administrator/070_Server_Management_and_Integrations/Security/040_Security_Assurance
 
 == Web testing ==
-https://www.owasp.org/images/c/c3/Top10PrivacyRisks_IAPP_Summit_2015.pdf|OWasp Top 10 Privacy Risks
-https://ghostbin.com/paste/6kho7|How Hacking Team was hacked (probably off-topic)
+OWASP Top 10 Privacy Risks
+https://www.owasp.org/images/c/c3/Top10PrivacyRisks_IAPP_Summit_2015.pdf
+
+How Hacking Team was hacked (probably off-topic)
+https://ghostbin.com/paste/6kho7
 
 == Recommendations ==
-https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology|OWASP Risk Rating Methodology
+OWASP Risk Rating Methodology
+https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology
+
+Tools to search and exploit OWASP Top 10 vulnerabilities
 https://www.owasp.org/index.php/ZAPpingTheTop10
